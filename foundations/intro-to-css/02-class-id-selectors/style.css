@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.odd {
+    font-family: Verdana, "DejaVu sans" sans-serif;
+    background-color: #ffc0cb;
+    color: #000000;
+}
+
+#even-eins {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.bold {
+    font-size: 24px;
+}
+
+#even-zwei {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
